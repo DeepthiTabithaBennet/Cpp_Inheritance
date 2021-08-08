@@ -3,7 +3,6 @@
 using namespace std;
 /*———————————————————————————————————————————————————————————————————————————*/
 class Smartphone{     // base class
-   
    public:
        string name = "Motorola";
        int camera = 16;
