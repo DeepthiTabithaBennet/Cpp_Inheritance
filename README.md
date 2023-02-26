@@ -6,8 +6,8 @@
 ### Please leave a 🌟 before you fork / clone this repo! 😃
 
 ### List of Programs :
-* Hierarchial Inheritance
-* Hybrid Inheritance
-* Multilevel Inheritance
-* Multiple Inheritance
-* Single Inheritance
+* [Hierarchial Inheritance](https://github.com/DeepthiTabithaBennet/Cpp_Inheritance/blob/main/Hierarchical_Inheritance.cpp)
+* [Hybrid Inheritance](https://github.com/DeepthiTabithaBennet/Cpp_Inheritance/blob/main/Hybrid_Inheritance.cpp)
+* [Multilevel Inheritance](https://github.com/DeepthiTabithaBennet/Cpp_Inheritance/blob/main/Multilevel_Inheritance.cpp)
+* [Multiple Inheritance](https://github.com/DeepthiTabithaBennet/Cpp_Inheritance/blob/main/Multiple_Inheritance.cpp)
+* [Single Inheritance](https://github.com/DeepthiTabithaBennet/Cpp_Inheritance/blob/main/Single_Inheritance.cpp)
